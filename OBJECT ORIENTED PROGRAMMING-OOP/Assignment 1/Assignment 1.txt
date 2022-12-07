@@ -1,0 +1,18 @@
+Write a C++ program that stores the data of football players on a team. It should store Player’s First name, Last name, Number of goals scored, age and ranking.
+
+Store the data of all team members in an array.
+
+Make functions to add, update, search and display a player’s data.
+
+The program should be menu driven i.e. user should be given various choices
+
+1-Add new player
+2-Update a  Player’s record
+3-Search Player
+4-Display complete list of players
+5-Exit the program.
+The program has limited memory so values to the functions should be passed by reference using pointers.
+
+The Search function should take a player’s name or index as input and should return the details of that specific player.
+
+The program should only end when user press 5, otherwise it should function according to the user’s choice.
